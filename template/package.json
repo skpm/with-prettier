@@ -1,7 +1,7 @@
 {
   "name": "foobar",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "foobar.sketchplugin",
   "license": "MIT",
   "engines": {
     "sketch": ">=3.0"
