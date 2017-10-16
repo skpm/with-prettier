@@ -20,5 +20,5 @@ $ npm run watch
 You can fork this repo to create your own boilerplate, and use it with `skpm`:
 
 ``` bash
-preact create my-plugin --template=username/repo
+skpm create my-plugin --template=username/repo
 ```
