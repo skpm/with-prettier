@@ -19,7 +19,7 @@
     "prettify": "npm run prettier:base \"./src/**/*.js\""
   },
   "devDependencies": {
-    "@skpm/builder": "^0.1.3",
+    "@skpm/builder": "^0.4.2",
     "eslint": "^4.8.0",
     "eslint-config-airbnb-base": "^12.0.2",
     "eslint-config-prettier": "^2.6.0",
